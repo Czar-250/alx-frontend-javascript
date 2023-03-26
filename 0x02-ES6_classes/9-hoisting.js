@@ -1,4 +1,4 @@
-i/* eslint-disable no-underscore-dangle */
+/* eslint-disable no-underscore-dangle */
 /* eslint-disable max-classes-per-file */
 
 export class HolbertonClass {
